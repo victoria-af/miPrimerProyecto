@@ -1,1 +1,2 @@
 Objetivo 1: Aprender los fundamentos del desarrollo web.
+Objetivo 2: Familiarizarme con elproceso de Git y GitHub como herramientas de control de versiones.
