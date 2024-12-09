@@ -1,1 +1,3 @@
-Aprender los fundamentos del desarrollo web.
+Objetivo 1: Aprender los fundamentos del desarrollo web.
+Objetivo 2: Familiarizarme con elproceso de Git y GitHub como herramientas de control de versiones.
+Objetivo 3: Crear y publicar un proyecto web completo desde cero, implementando tanto frontend como backend.
