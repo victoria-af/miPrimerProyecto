@@ -1,0 +1,1 @@
+No tenía conocimientos previos de Git, pero he aprendido a usar ramas, commits y GitKraken.
