@@ -1,0 +1,4 @@
+Objetivo 1: aprender a usar Git desde terminal
+Objetivo 2: Comprender cómo se crean y gestionan ramas en Git.
+Objetivo 3: Aprender a integrar ramas en proyectos colaborativos.
+
